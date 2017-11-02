@@ -1,18 +1,10 @@
-﻿using System.Net.Http;
-using System.Threading;
-using System.Threading.Tasks;
+﻿using System;
 
-
-{
-
-    public class Program
-    {
-        static void Main(string[] args)
-        {
-            
-        }
-
-        
-	}
-	
+// This class exists only to house the entry point.
+class MainApp {
+   // The static method, Main, is the application's entry point.
+   public static void Main() {
+      // Write text to the console.
+      Console.WriteLine("Hello World using C#!");
+   }
 }
