@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Root CoveredStatements="128" TotalStatements="204" CoveragePercent="63" ReportType="DetailedXml" DotCoverVersion="2016.2">
   <FileIndices>
-    <File Index="1" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\AnalyzerTestClass.cs" ChecksumAlgorithm="SHA1" Checksum="279408AA8B3309C5F52E75BB939F209EF2C2C96A" />
-    <File Index="2" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\ClassWithExcludes.cs" ChecksumAlgorithm="SHA1" Checksum="10977DC810879A0798466E08282B5AFEBD0A87FF" />
-    <File Index="3" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\CodeContract_Contract.cs" ChecksumAlgorithm="SHA1" Checksum="E11CAB5FBE2B4A89F4D35136702BF66D26096AA1" />
-    <File Index="4" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\CodeContract_Target.cs" ChecksumAlgorithm="SHA1" Checksum="A1C99436ACD57A9D67E134BB1DBD2E6FF2368153" />
-    <File Index="5" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\GenericClass.cs" ChecksumAlgorithm="SHA1" Checksum="DEDD484BE609B0035506ABF3C86687EDF27E61B6" />
-    <File Index="6" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\NotMatchingFileName.cs" ChecksumAlgorithm="SHA1" Checksum="6AC2752FD2EB0D38E6B5C6944142AE054B83E240" />
-    <File Index="7" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\PartialClassWithAutoProperties2.cs" ChecksumAlgorithm="SHA1" Checksum="7EAE5089FAC8C9CBF16114DBD6F46A833D6861F0" />
-    <File Index="8" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\PartialClassWithAutoProperties.cs" ChecksumAlgorithm="SHA1" Checksum="FD0380B132D1722F52E3EA2C8FAA4313484C48B0" />
-    <File Index="9" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\PartialClass2.cs" ChecksumAlgorithm="SHA1" Checksum="9498070CA3059279C32606984F62DC474F2372DF" />
-    <File Index="10" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\PartialClass.cs" ChecksumAlgorithm="SHA1" Checksum="6590798954DC51AB16564786C4E54FCB499BBFD8" />
-    <File Index="11" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\Program.cs" ChecksumAlgorithm="SHA1" Checksum="62E2B7F6610D4DBAA8086562B5CB73242018B538" />
-    <File Index="12" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\AbstractClass.cs" ChecksumAlgorithm="SHA1" Checksum="ED035DB63CCE079F60EE6FDBE8AA30CCA35AAE1A" />
-    <File Index="13" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\TestClass.cs" ChecksumAlgorithm="SHA1" Checksum="A032C005D5018BC223778888A3C845D752077B2E" />
-    <File Index="14" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\TestClass2.cs" ChecksumAlgorithm="SHA1" Checksum="6534BF7B9C85EBC9C050AE815B9304E8E9A3E790" />
-    <File Index="15" Name="D:\Jenkins\jobs\DotCover - CS\workspace\ConsoleApp1\AsyncClass.cs" ChecksumAlgorithm="SHA1" Checksum="5CA2B1F48B51B1EC0B54EE2B7FC7E5622E178A1A" />
+    <File Index="1" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\AnalyzerTestClass.cs" ChecksumAlgorithm="SHA1" Checksum="279408AA8B3309C5F52E75BB939F209EF2C2C96A" />
+    <File Index="2" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\ClassWithExcludes.cs" ChecksumAlgorithm="SHA1" Checksum="10977DC810879A0798466E08282B5AFEBD0A87FF" />
+    <File Index="3" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\CodeContract_Contract.cs" ChecksumAlgorithm="SHA1" Checksum="E11CAB5FBE2B4A89F4D35136702BF66D26096AA1" />
+    <File Index="4" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\CodeContract_Target.cs" ChecksumAlgorithm="SHA1" Checksum="A1C99436ACD57A9D67E134BB1DBD2E6FF2368153" />
+    <File Index="5" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\GenericClass.cs" ChecksumAlgorithm="SHA1" Checksum="DEDD484BE609B0035506ABF3C86687EDF27E61B6" />
+    <File Index="6" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\NotMatchingFileName.cs" ChecksumAlgorithm="SHA1" Checksum="6AC2752FD2EB0D38E6B5C6944142AE054B83E240" />
+    <File Index="7" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\PartialClassWithAutoProperties2.cs" ChecksumAlgorithm="SHA1" Checksum="7EAE5089FAC8C9CBF16114DBD6F46A833D6861F0" />
+    <File Index="8" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\PartialClassWithAutoProperties.cs" ChecksumAlgorithm="SHA1" Checksum="FD0380B132D1722F52E3EA2C8FAA4313484C48B0" />
+    <File Index="9" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\PartialClass2.cs" ChecksumAlgorithm="SHA1" Checksum="9498070CA3059279C32606984F62DC474F2372DF" />
+    <File Index="10" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\PartialClass.cs" ChecksumAlgorithm="SHA1" Checksum="6590798954DC51AB16564786C4E54FCB499BBFD8" />
+    <File Index="11" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\Program.cs" ChecksumAlgorithm="SHA1" Checksum="62E2B7F6610D4DBAA8086562B5CB73242018B538" />
+    <File Index="12" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\AbstractClass.cs" ChecksumAlgorithm="SHA1" Checksum="ED035DB63CCE079F60EE6FDBE8AA30CCA35AAE1A" />
+    <File Index="13" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\TestClass.cs" ChecksumAlgorithm="SHA1" Checksum="A032C005D5018BC223778888A3C845D752077B2E" />
+    <File Index="14" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\TestClass2.cs" ChecksumAlgorithm="SHA1" Checksum="6534BF7B9C85EBC9C050AE815B9304E8E9A3E790" />
+    <File Index="15" Name="D:\Jenkins\jobs\DotCover---CS\workspace\ConsoleApp1\AsyncClass.cs" ChecksumAlgorithm="SHA1" Checksum="5CA2B1F48B51B1EC0B54EE2B7FC7E5622E178A1A" />
   </FileIndices>
   <Assembly Name="Test" CoveredStatements="128" TotalStatements="204" CoveragePercent="63">
     <Namespace Name="Test" CoveredStatements="128" TotalStatements="204" CoveragePercent="63">
